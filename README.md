@@ -54,10 +54,4 @@ The character recognition model is trained on a dataset of 20x20 pixel images co
 - May have reduced accuracy in poor lighting conditions
 - Requires proper camera angle and distance for optimal results
 
-## Contributing
 
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
